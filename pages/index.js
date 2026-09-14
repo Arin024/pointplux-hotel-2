@@ -5,13 +5,13 @@ const body = `
   <div class="hero-slides">
     <div class="hero-slide active" style="background-image:url('images/optimized/phase1-exterior.jpg')" role="img" aria-label="Exterior of PointPlux Hotel Phase 1 on Joju Road, Sango Otta"></div>
     <div class="hero-slide" style="background-image:url('images/optimized/room-london-suite.jpg')" role="img" aria-label="The London-themed Royal Suite bedroom at PointPlux Hotel"></div>
-    <div class="hero-slide" style="background-image:url('images/optimized/reception-lobby.jpg')" role="img" aria-label="PointPlux Hotel reception and lobby area"></div>
+    <div class="hero-slide" style="background-image:url('images/gallery/reception-portraits.jpg')" role="img" aria-label="PointPlux Hotel reception area with framed portraits and seating"></div>
   </div>
   <div class="hero-overlay"></div>
   <div class="hero-content">
     <span class="hero-eyebrow">Sango Otta &middot; Ogun State &middot; Since 17+ Years</span>
     <h1>Your <em>Comfortability</em> Is Our Concern</h1>
-    <p class="lead">PointPlux Hotel &amp; Suites is one of the leading hospitality businesses in Sango Otta — three phases, 60+ rooms, and facilities designed for business, leisure, and everything in between.</p>
+    <p class="lead">PointPlux Hotel &amp; Suites is one of the leading hospitality businesses in Sango Otta — two phases, 60+ rooms, and facilities designed for business, leisure, and everything in between.</p>
     <div class="hero-ctas">
       <a class="btn btn-primary" href="${waLink('Hi PointPlux Hotel, I\u2019d like to book a room. Could you help me check availability?')}" target="_blank" rel="noopener">Book Now</a>
       <a class="btn btn-outline" href="rooms.html">View Rooms &amp; Suites</a>
@@ -23,14 +23,14 @@ const body = `
 <section>
   <div class="container split">
     <div class="img-loading-wrap" style="border-radius:10px;">
-      <img src="images/optimized/reception-lobby.jpg" alt="Interior view of the PointPlux Hotel reception and lobby, lit with blue accent lighting" loading="lazy" width="1200" height="900">
+      <img src="images/gallery/reception-portraits.jpg" alt="PointPlux Hotel reception area with framed portraits, TV, and seating" loading="lazy" width="1200" height="900">
       <div class="skeleton" style="aspect-ratio:4/3;"></div>
     </div>
     <div>
       <span class="eyebrow">Welcome</span>
       <h2 class="section-title">Welcome to PointPlux Hotels &amp; Suites</h2>
       <p>PointPlux Hotel &amp; Suites is one of the leading hospitality businesses across the states, especially at Sango Otta, for over seventeen (17) years of experience. Doing common things uncommonly well is what has led us to becoming leaders in sustained service excellence over the years.</p>
-      <p>The building comprises three phases — Phase 1, Phase 2, and Phase 3 — with good-looking attractions, and our services in hospitality provide an experience like no others.</p>
+      <p>The building comprises two phases — Phase 1 and Phase 2 — with good-looking attractions, and our services in hospitality provide an experience like no others.</p>
       <a class="btn btn-dark" href="facilities.html">Explore Our Facilities</a>
     </div>
   </div>
@@ -40,10 +40,10 @@ const body = `
   <div class="container">
     <div class="section-head center">
       <span class="eyebrow">Our Property</span>
-      <h2 class="section-title">Three Phases, One Standard of Comfort</h2>
+      <h2 class="section-title">Two Phases, One Standard of Comfort</h2>
       <p>Spread across Sango Otta's commercial hub, each phase of PointPlux Hotel &amp; Suites carries the same commitment to comfort and service.</p>
     </div>
-    <div class="grid grid-3">
+    <div class="grid grid-2">
       <div class="card">
         <div class="card-img">
           <span class="card-tag">Phase 1</span>
@@ -64,16 +64,6 @@ const body = `
           <p>A quieter extension of the property offering the same PointPlux comfort in a more relaxed, gated setting.</p>
         </div>
       </div>
-      <div class="card">
-        <div class="card-img">
-          <span class="card-tag">Phase 3</span>
-          <img src="images/optimized/room-tv-view.jpg" alt="PointPlux Hotel guest room interior with television and modern lighting" loading="lazy" width="1600" height="1200">
-        </div>
-        <div class="card-body">
-          <h3>Phase 3</h3>
-          <p>Rounding out our 60+ rooms across the property, Phase 3 continues our promise of spacious, well-appointed comfort.</p>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -87,7 +77,7 @@ const body = `
     </div>
     <div class="grid grid-3">
       <div class="card">
-        <div class="card-img"><img src="images/optimized/room-bed-purple.jpg" alt="Single Room at PointPlux Hotel with double bed and mood lighting" loading="lazy" width="1600" height="1200"></div>
+        <div class="card-img"><img src="images/gallery/room-purple-curtains.jpg" alt="Single Room at PointPlux Hotel with orange and navy curtains and mood lighting" loading="lazy" width="1600" height="1200"></div>
         <div class="card-body">
           <h3>Single Room</h3>
           <p>A cosy, well-furnished room ideal for solo travelers.</p>
@@ -134,11 +124,11 @@ const body = `
         <div class="card-body"><h3>Nightlife &amp; Events</h3><p>Live DJ sets and a buzzing bar scene keep the evening going.</p></div>
       </div>
       <div class="card">
-        <div class="card-img"><img src="images/optimized/workman-lounge.jpg" alt="Workman's Lounge dining and seating area at PointPlux Hotel" loading="lazy" width="1600" height="1200"></div>
+        <div class="card-img"><img src="images/gallery/workmans-bar-night.jpg" alt="Workman's Bar signage lit up at night with guests at PointPlux Hotel" loading="lazy" width="1600" height="1200"></div>
         <div class="card-body"><h3>Workman's Lounge</h3><p>A cozy space for light meals, local and international refreshments, and business meetings.</p></div>
       </div>
       <div class="card">
-        <div class="card-img"><img src="images/optimized/lounge.jpg" alt="Outdoor lounge seating area at PointPlux Hotel" loading="lazy" width="1600" height="1200"></div>
+        <div class="card-img"><img src="images/gallery/pool-day-empty.jpg" alt="Outdoor lounge and swimming pool area at PointPlux Hotel" loading="lazy" width="1600" height="1200"></div>
         <div class="card-body"><h3>Lounge &amp; Exclusive Hall</h3><p>An outdoor lounge plus a 50+ seat hall equipped for conferences, seminars, and congresses.</p></div>
       </div>
       <div class="card">
@@ -174,7 +164,7 @@ const body = `
 
 module.exports = page({
   title: 'PointPlux Hotel & Suites | Hotel in Sango Otta, Ogun State',
-  description: 'PointPlux Hotel & Suites — 17+ years of hospitality in Sango Otta. Three phases, 60+ rooms, Exotic Bar, Workman\'s Lounge & Exclusive Hall. Book now.',
+  description: 'PointPlux Hotel & Suites — 17+ years of hospitality in Sango Otta. Two phases, 60+ rooms, Exotic Bar, Workman\'s Lounge & Exclusive Hall. Book now.',
   path: 'index.html',
   active: 'index.html',
   body,

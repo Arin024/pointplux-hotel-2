@@ -19,7 +19,7 @@ const body = `
 </div>
 
 <div class="feature-row">
-  <div class="feature-media" style="background-image:url('images/optimized/workman-lounge.jpg');" role="img" aria-label="Workman's Lounge dining and seating area with orange walls at PointPlux Hotel"></div>
+  <div class="feature-media" style="background-image:url('images/gallery/workmans-bar-night.jpg');" role="img" aria-label="Workman's Bar signage lit up at night with guests socialising at PointPlux Hotel"></div>
   <div class="feature-text">
     <span class="eyebrow">Workman's Lounge</span>
     <h2 class="section-title">Meals, Meetings &amp; Match Day</h2>
@@ -29,7 +29,7 @@ const body = `
 </div>
 
 <div class="feature-row">
-  <div class="feature-media" style="background-image:url('images/optimized/lounge.jpg');" role="img" aria-label="Outdoor lounge seating area with wooden furniture at PointPlux Hotel"></div>
+  <div class="feature-media" style="background-image:url('images/gallery/pool-day-empty.jpg');" role="img" aria-label="Outdoor pool and lounge area at PointPlux Hotel"></div>
   <div class="feature-text">
     <span class="eyebrow">Lounge</span>
     <h2 class="section-title">An Easy Space to Settle In</h2>

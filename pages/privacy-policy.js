@@ -1,7 +1,7 @@
 const { page } = require('../build_site');
 
 const body = `
-<section class="page-hero" style="background-image:url('images/optimized/reception-lobby.jpg'); padding:130px 0 50px;">
+<section class="page-hero" style="background-image:url('images/gallery/reception-portraits.jpg'); padding:130px 0 50px;">
   <div class="container">
     <div class="breadcrumb"><a href="index.html">Home</a> / Privacy Policy</div>
     <h1 style="color:#fff;">Privacy Policy</h1>

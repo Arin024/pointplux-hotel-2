@@ -20,7 +20,6 @@ const securitySlides = [
 const roomsExtraSlides = [
   { src: 'images/gallery/room-blue-dark.jpg', alt: 'PointPlux Hotel Royal Suite bedroom with blue mood lighting and striped bedspread', title: 'Royal Suite', desc: 'Deep blue accent lighting for a calm, private atmosphere.' },
   { src: 'images/gallery/room-flag-bedspread.jpg', alt: 'PointPlux Hotel room with America-themed striped bedspread under blue lighting', title: 'America Suite', desc: 'One of our themed Royal Suites, finished with custom bedding.' },
-  { src: 'images/gallery/room-purple-curtains.jpg', alt: 'PointPlux Hotel room with orange and navy curtains and white bedding under purple light', title: 'Suite Detail', desc: 'Rich curtain textures and crisp white linens.' },
   { src: 'images/gallery/room-all-blue.jpg', alt: 'PointPlux Hotel room bathed entirely in blue mood lighting', title: 'Mood Lighting', desc: 'Every room is finished with atmospheric accent lighting.' },
 ];
 

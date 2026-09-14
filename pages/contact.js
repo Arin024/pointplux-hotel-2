@@ -1,7 +1,7 @@
 const { page, waLink } = require('../build_site');
 
 const body = `
-<section class="page-hero" style="background-image:url('images/optimized/reception-lobby.jpg');">
+<section class="page-hero" style="background-image:url('images/gallery/reception-portraits.jpg');">
   <div class="container">
     <div class="breadcrumb"><a href="index.html">Home</a> / Contact</div>
     <h1 style="color:#fff;">Contact Us</h1>

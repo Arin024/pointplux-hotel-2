@@ -16,7 +16,7 @@ const body = `
     <div class="section-head center">
       <span class="eyebrow">Categories</span>
       <h2 class="section-title">Single Room &middot; Standard Room &middot; Royal Suites</h2>
-      <p>Point Plux Hotels &amp; Suites can boast of over 60 rooms across three phases at the same location. Our rooms are spacious, well appointed, and tastefully and luxuriously furnished in present modern taste. Each room is equipped with air-conditioning and modern amenities including digital satellite television, a wardrobe, exotic chairs, and an ensuite bathroom — a haven of relaxation.</p>
+      <p>Point Plux Hotels &amp; Suites can boast of over 60 rooms across two phases at the same location. Our rooms are spacious, well appointed, and tastefully and luxuriously furnished in present modern taste. Each room is equipped with air-conditioning and modern amenities including digital satellite television, a wardrobe, exotic chairs, and an ensuite bathroom — a haven of relaxation.</p>
       <div class="amenities">
         <span>Air Conditioning</span>
         <span>Digital Satellite TV</span>
@@ -29,7 +29,7 @@ const body = `
 
     <div class="grid grid-3">
       <div class="card">
-        <div class="card-img"><img src="images/optimized/room-bed-purple.jpg" alt="Single Room bed at PointPlux Hotel with purple mood lighting" loading="lazy" width="1600" height="1200"></div>
+        <div class="card-img"><img src="images/gallery/room-purple-curtains.jpg" alt="Single Room at PointPlux Hotel with orange and navy curtains and purple mood lighting" loading="lazy" width="1600" height="1200"></div>
         <div class="card-body">
           <h3>Single Room</h3>
           <p>A comfortable, well-furnished room suited to solo business or leisure travelers, with all core amenities included.</p>
@@ -94,7 +94,6 @@ const body = `
     ${carousel('rooms-more-carousel', [
       { src: 'images/gallery/room-blue-dark.jpg', alt: 'PointPlux Hotel Royal Suite bedroom with blue mood lighting and striped bedspread', title: 'Royal Suite', desc: 'Deep blue accent lighting for a calm, private atmosphere.' },
       { src: 'images/gallery/room-flag-bedspread.jpg', alt: 'PointPlux Hotel room with America-themed striped bedspread under blue lighting', title: 'America Suite', desc: 'One of our themed Royal Suites, finished with custom bedding.' },
-      { src: 'images/gallery/room-purple-curtains.jpg', alt: 'PointPlux Hotel room with orange and navy curtains and white bedding under purple light', title: 'Suite Detail', desc: 'Rich curtain textures and crisp white linens.' },
       { src: 'images/gallery/room-all-blue.jpg', alt: 'PointPlux Hotel room bathed entirely in blue mood lighting', title: 'Mood Lighting', desc: 'Every room is finished with atmospheric accent lighting.' },
     ])}
   </div>
